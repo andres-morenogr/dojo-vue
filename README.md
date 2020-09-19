@@ -1,4 +1,4 @@
-# dojo
+# dojo-vue
 
 ## Project setup
 ```
